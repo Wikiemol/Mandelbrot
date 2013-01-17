@@ -14,7 +14,7 @@ This is a Java application that displays the Mandelbrot fractal and its correspo
   5 Light Blue
   6 Purple
 
-To run type this into the command line (after setting the working directory to the project folder):
+To run, type this into the command line (after setting the working directory to the project folder):
 
 	$ Javac Main.js
 	$ Java Main
