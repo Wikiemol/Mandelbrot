@@ -16,5 +16,5 @@ This is a Java application that displays the Mandelbrot fractal and its correspo
 
 To run, type this into the command line (after setting the working directory to the project folder):
 
-	$ Javac Main.java
-	$ Java Main
+	$ javac Main.java
+	$ java Main
